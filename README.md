@@ -6,15 +6,15 @@ Scenario: A mysterious health epidemic is sweeping the nation, and your team of 
 Challenge: Develop an interactive Health Detective Dashboard in Power BI that enables users to explore correlations, investigate specific counties, and propose hypotheses about health disparities.
 
 Team Members
-Shubham Kansal
+- Shubham Kansal
 
-Arnav Gupta
+- Arnav Gupta
 
-Kaushik Bhattacharya
+- Kaushik Bhattacharya
 
-Parth Shukla
+- Parth Shukla
 
-Key Features of the Dashboard
+### Key Features of the Dashboard
 1. Correlation Analysis
 Use scatter plots and heatmaps to visualize relationships between different "Measure Names" (e.g., obesity rates vs. diabetes rates, smoking rates vs. life expectancy).
 
