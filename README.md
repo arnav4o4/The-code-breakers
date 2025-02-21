@@ -1,4 +1,4 @@
-# Health Detective Dashboard
+# [Health Detective Dashboard](https://lookerstudio.google.com/u/0/reporting/fc9d3c0d-f3ae-4d34-bd05-c0b56faab92d/page/5FpwE)
 ## Project Overview
 ### Theme: "The Health Detective": Unmasking the Hidden Influences
 Scenario: A mysterious health epidemic is sweeping the nation, and your team of data detectives must uncover the root causes. Using the County Health Rankings dataset, the team will analyze and visualize relationships between health metrics to identify hidden influences on public health.
